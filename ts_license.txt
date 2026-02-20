@@ -1,0 +1,124 @@
+Copyright (c) 2005-2016, EFI Analytics, Inc. All Rights Reserved.
+
+ NOTICE TO USERS: CAREFULLY READ THE FOLLOWING LEGAL AGREEMENT.
+ 
+USE OF THE SOFTWARE PROVIDED WITH THIS AGREEMENT (THE "SOFTWARE") 
+CONSTITUTES YOUR ACCEPTANCE OF THESE TERMS.
+IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL AND/OR 
+USE THIS SOFTWARE.
+USER'S USE OF THIS SOFTWARE IS CONDITIONED UPON COMPLIANCE BY USER WITH 
+THE TERMS OF THIS AGREEMENT.
+ 
+ 1. LICENSE GRANT.
+ EFI Analytics, Inc. grants you a license to use one copy of the version 
+of this SOFTWARE on any one system for as many licenses as you purchase.
+ "You" means the company, entity or individual whose funds are used to 
+pay the license fee.
+ "Use" means storing, loading, installing, executing or displaying the 
+SOFTWARE.
+ You may not modify the SOFTWARE or disable any licensing or control 
+features of the SOFTWARE except as an intended part of the SOFTWARE's 
+programming features. 
+ You may install the unregistered version of this software on as many 
+computers as you are using for your own personal use. 
+ The standard retail TunerStudio License registration agreement covers 
+one (1) user installing the application on up to 3 computers for their 
+own use. This license agreement is not tied to specific hardware and the 
+user can transfer the provided registration key to hardware to be used by 
+the registered individual for personal use. EFI Analytics reserves the 
+right to disable registration keys that have been distributed beyond the 
+rightful owner or have been used not in accordance with this agreement in 
+EFI Analytics opinion. The rightful registration key owner may contact 
+EFI Analytics for issuance of a replacement key.
+ 
+ Any usage not by an individual for the individual is considered 
+commercial usage and requires a separate agreement with EFI Analytics, 
+Inc.
+ 
+ 2. OWNERSHIP.
+ The SOFTWARE is owned and copyrighted by EFI Analytics, Inc..
+ Your license confers no title or ownership in the SOFTWARE and should 
+not be construed as a sale of any right in the SOFTWARE.
+ 
+ 3. COPYRIGHT.
+ The SOFTWARE is protected by United States copyright law and 
+international treaty provisions. You acknowledge that no title to the 
+intellectual property in the SOFTWARE is transferred to you.
+ You further acknowledge that title and full ownership rights to the 
+SOFTWARE will remain the exclusive property of EFI Analytics, Inc. and 
+you will not acquire any rights to the SOFTWARE except as expressly set 
+forth in this license.
+ You agree that any copies of the SOFTWARE will contain the same 
+proprietary notices which appear on and in the SOFTWARE.
+ 
+ 4. REVERSE ENGINEERING.
+ You agree that you will not attempt to reverse compile, modify, 
+translate, or disassemble the SOFTWARE in whole or in part.
+ 
+ 5. NO OTHER WARRANTIES.
+ EFI Analytics, Inc. DOES NOT WARRANT THAT THE SOFTWARE IS ERROR FREE. 
+EFI Analytics, Inc. DISCLAIMS ALL OTHER WARRANTIES WITH RESPECT TO THE 
+SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR 
+LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY MAY LAST, OR THE EXCLUSION OR 
+LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE 
+LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+ THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE 
+OTHER RIGHTS WHICH VARY FROM JURISDICTION TO JURISDICTION.
+ 
+ 6. SEVERABILITY.
+ In the event of invalidity of any provision of this license, the parties 
+agree that such invalidity shall not affect the validity of the remaining 
+portions of this license.
+ 
+ 7. NO LIABILITY FOR CONSEQUENTIAL DAMAGES.
+ IN NO EVENT SHALL EFI Analytics, Inc. OR ITS SUPPLIERS BE LIABLE TO YOU 
+FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL OR INDIRECT DAMAGES OF ANY 
+KIND ARISING OUT OF THE DELIVERY, PERFORMANCE OR USE OF THE SOFTWARE, 
+EVEN IF EFI Analytics, Inc. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES.
+ IN NO EVENT WILL EFI Analytics, Inc.' LIABILITY FOR ANY CLAIM, WHETHER 
+IN CONTRACT, TORT OR ANY OTHER THEORY OF LIABILITY, EXCEED THE LICENSE 
+FEE PAID BY YOU, IF ANY.
+ 
+ 8. GOVERNING LAW.
+ This license will be governed by the laws of the State of South Carolina 
+as they are applied to agreements between South Carolina residents 
+entered into and to be performed entirely within South Carolina. The 
+United Nations Convention on Contracts for the International Sale of 
+Goods is specifically disclaimed.
+ 
+ 9. ENTIRE AGREEMENT.
+ This is the entire agreement between you and EFI Analytics, Inc. which 
+supersedes any prior agreement or understanding, whether written or oral, 
+relating to the subject matter of this license.
+ 
+ This software is the confidential and proprietary information of EFI 
+Analytics. You shall use it only in accordance with the terms of the 
+license agreement you entered into with EFI Analytics.
+ 
+ This software is a designed to be a tool to aid in engine tuning. The 
+writers and creators are in no way responsible for damages incurred 
+during the use of this software. As a user of this software you fully 
+understand intended usage or risks associated with configuring an EFI 
+controller. You accept full responsibility for any and all damages that 
+may occur while using this tool.
+ 
+ This tool is not intended to be used by any person during while 
+operating a motor vehicle. 
+ 
+ 10. EFI Analytics grants the right to distribute this software as 
+distributed by EFI Analytics. Disassembly or repackaging of any EFI 
+Analytics Property is forbidden without an agreement with EFI Analytics, 
+Inc. Distribution with commercial products or for profit or benefit to 
+any commercial entity must be covered by an agreement with EFI Analytics 
+or Philip S Tobin. 
+ 
+ Copyright (c) 2005-2016, EFI Analytics. All Rights Reserved.
+  
+  For questions or additional information contact:
+  Phil Tobin
+  EFI Analytics
+  p_tobin@yahoo.com
