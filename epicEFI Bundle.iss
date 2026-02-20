@@ -3,8 +3,8 @@
 #define Publisher "epicEFI"
 #define AppURL "https://epicefi.com"
 
-#define TSURL "http://localhost:8888"
-//#define TSURL "https://www.tunerstudio.com/downloads2"
+//#define TSURL "http://localhost:8888"
+#define TSURL "https://www.tunerstudio.com/downloads2"
 #define TSVersion "3.3.01"
 
 [Setup]
