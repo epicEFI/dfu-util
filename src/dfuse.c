@@ -269,7 +269,7 @@ static int dfuse_special_command(struct dfu_if *dif, unsigned int address,
 				     dfuse_command_name[command]);
 			}
 			/* STM32F405 lies about mass erase timeout */
-			if (command == MASS_ERASE && dst.bwPollTimeout == 100) {
+			if (command == MASS_ERASE) {
 				polltimeout = 35000; /* Datasheet says up to 32 seconds */
 				printf("Setting timeout to 35 seconds\n");
 			}
