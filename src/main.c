@@ -209,6 +209,7 @@ static void print_version(void)
 	       "Copyright 2010-2021 Tormod Volden and Stefan Schmidt\n"
 	       "This program is Free Software and has ABSOLUTELY NO WARRANTY\n"
 	       "Please report bugs to " PACKAGE_BUGREPORT "\n\n");
+        printf("\nModified for epicEFI\n");
 }
 
 static const struct option opts[] = {
