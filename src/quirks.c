@@ -32,6 +32,7 @@
 
 uint16_t get_quirks(uint16_t vendor, uint16_t product, uint16_t bcdDevice)
 {
+    printf("quirking: vendor=0x%x, product=0x%x, bcdDevice=0x%x\n", vendor, product, bcdDevice);
 	uint16_t quirks = 0;
 
 	/* Device returns bogus bwPollTimeout values */
@@ -70,6 +71,10 @@ uint16_t get_quirks(uint16_t vendor, uint16_t product, uint16_t bcdDevice)
 		quirks |= QUIRK_UTF8_SERIAL;
 		quirks |= QUIRK_DFUSE_LAYOUT;
 		quirks |= QUIRK_DFUSE_LEAVE;
+	}
+
+	if (vendor == VENDOR_ST) {
+	    quirks |= QUIRK_DFUSE_LEAVE;
 	}
 
 	return (quirks);
