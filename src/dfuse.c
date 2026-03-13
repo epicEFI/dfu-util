@@ -558,6 +558,7 @@ static int dfuse_dnload_element(struct dfu_if *dif, unsigned int dwElementAddres
 			       "%08x to memory %08x-%08x, size %i\n",
 			       p, address, address + chunk_size - 1,
 			       chunk_size);
+			dfu_progress_bar("Download", p, dwElementSize);
 		} else {
 			dfu_progress_bar("Download", p, dwElementSize);
 		}
